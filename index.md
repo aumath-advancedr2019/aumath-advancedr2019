@@ -1,7 +1,8 @@
----
+<!-- ---
 layout: master
 title: Advanced R 2019
 ---
+-->
 <img src="LogoAdvancedR2019.png" width="200px" />
 
 Welcome to AuMath-AdvancedR 2019!
