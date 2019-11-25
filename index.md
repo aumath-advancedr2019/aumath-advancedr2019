@@ -14,6 +14,7 @@ Here are links to some of these packages:
 
 * [Abands](https://aumath-advancedr2019.github.io/Abands/). This was only a demo repository and will be removed here later
 * [PhaseTypeGenetics](https://aumath-advancedr2019.github.io/PhaseTypeGenetics/) Phase type distributions, theory and simulation
+* [ticphasetype](https://aumath-advancedr2019.github.io/ticphasetype/index.html) Core functions from phase-type theory that are useful in the analysis of biological data
 * More cool repositories
 
  
