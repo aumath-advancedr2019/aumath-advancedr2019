@@ -13,6 +13,7 @@ We are 17 students and one course organizer ([Ute Hahn](https://pure.au.dk/porta
 Here are links to some of these packages:
 
 * [Abands](https://aumath-advancedr2019.github.io/Abands/). This was only a demo repository and will be removed here later
+* [PhaseTypeGenetics](https://aumath-advancedr2019.github.io/PhaseTypeGenetics/) Phase type distributions, theory and simulation
 * More cool repositories
 
  
